@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545916222733",
+    "project_id": "fridgeorfoe",
+    "storage_bucket": "fridgeorfoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545916222733:android:65c885dc355ff71bbc0444",
+        "android_client_info": {
+          "package_name": "edu.ncf.janfic18.fridgeorfoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545916222733-0l5naqckk02j4400u9o9r33tfpnisl6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMNXgJtKYIlkqGa6RyNWd9VAxUC6UsxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545916222733-0l5naqckk02j4400u9o9r33tfpnisl6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
